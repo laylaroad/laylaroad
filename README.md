@@ -1,4 +1,40 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm Leyla
+<h3 align="center">Junior front-end developer</h3>
+
+* Phuket, Thailand
+* tg: @laylaroad
+* lejla.eyvazova@gmail.com
+
+****
+  ## PROJECTS 
+ **[Web-site](https://github.com/laylaroad/aboutshelter.github.io#aboutsheltergithubio)** 
+  * In this project were used such instruments like _JSON_, _CSS grid_, _CSS layout_.
+   ******
+   **[Virtual keyboard](https://github.com/laylaroad/virtual_keyboard#virtual_keyboard)** 
+  * It was a challenge to make a virtual keyboard without using HTML.
+  
+ ******
+  
+##  TECHNICAL SKILLS 
+
+ * HTML5/CSS3
+ * JavaScript ES6
+ * CSS preprocessors (Sass/LESS)
+ * Git 
+ * Node.js
+ * React.js
+ * Redux 
+ * Typescript
+  
+
+ ******
+
+## SOFT SKILLS 
+
+* Working on a team
+* Ability to learn independently
+* Self-organizing
+* Flexibility
 
 <!--
 **laylaroad/laylaroad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
