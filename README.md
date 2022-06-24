@@ -20,9 +20,8 @@
  * Git 
  * Node.js (basic knowledge)
  * React.js (basic knowledge)
- * Redux (basic knowledge)
  * Typescript (basic knowledge)
- * GraphQL (basic knowledge)
+
   
 
  ******
