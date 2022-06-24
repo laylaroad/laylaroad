@@ -18,8 +18,8 @@
  * JavaScript ES6
  * CSS preprocessors (Sass/LESS)
  * Git 
- * Node.js
- * React.js
+ * Node.js (basic knowledge)
+ * React.js (basic knowledge)
  * Redux (basic knowledge)
  * Typescript (basic knowledge)
  * GraphQL (basic knowledge)
