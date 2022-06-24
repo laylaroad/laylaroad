@@ -7,9 +7,6 @@
 
 ****
   ## PROJECTS 
- **[Web-site](https://github.com/laylaroad/aboutshelter.github.io#aboutsheltergithubio)** 
-  * In this project were used such instruments like _JSON_, _CSS grid_, _CSS layout_.
-   ******
    **[Virtual keyboard](https://github.com/laylaroad/virtual_keyboard#virtual_keyboard)** 
   * It was a challenge to make a virtual keyboard without using HTML.
   
