@@ -36,7 +36,6 @@ Check out some of the projects I've created with the guidance and mentorship of 
 - [Stellar Burger]([https://github.com/laylaroad/react-stellar-burger])
 - [Mesto]([[link](https://github.com/laylaroad/mesto-project-bootcamp)])
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## Contact Me
 
