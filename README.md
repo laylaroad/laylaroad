@@ -33,14 +33,14 @@ I have a strong enthusiasm for front-end development and enjoy bringing designs 
 ## Projects
 
 Check out some of the projects I've created with the guidance and mentorship of experienced developers:
-- [Stellar Burger]([link](https://github.com/laylaroad/react-stellar-burger))
-- [Mesto]([link](https://github.com/laylaroad/mesto-project-bootcamp))
+- [Stellar Burger]([https://github.com/laylaroad/react-stellar-burger])
+- [Mesto]([[link](https://github.com/laylaroad/mesto-project-bootcamp)])
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## Contact Me
 
-If you're interested in working together or have any questions, don't hesitate to reach out to me via email at lejla.eyvazova@gmail.com or tg: @laylaeyvazova. 
+If you're interested in working together or have any questions, don't hesitate to reach out to me via email at lejla.eyvazova@gmail.com or via [telegram](https://t.me/laylaroad). 
 I look forward to hearing from you!
 
 
