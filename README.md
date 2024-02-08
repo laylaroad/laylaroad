@@ -1,4 +1,3 @@
-![](https://github.com/laylaroad/laylaroad/blob/master/girl%20with%20computer.gif)
 
 # Junior Frontend Developer Portfolio
 
