@@ -22,7 +22,7 @@ Here are the main technologies and tools I've been working with:
 
 I'm continually learning and exploring new technologies to enhance my skills and contribute effectively to projects.
 
-## About Me
+## About me
 
 Originally, I pursued a career as a musical critic, where I honed my skills in critical analysis and attention to detail. However, I discovered my passion for coding and decided to transition to frontend development. This journey has been incredibly rewarding as I've found a new outlet for my creativity and problem-solving abilities.
 
@@ -36,7 +36,7 @@ Check out some of the projects I've created with the guidance and mentorship of 
 - [Mesto]([[link](https://github.com/laylaroad/mesto-project-bootcamp)])
 
 
-## Contact Me
+## Contact me
 
 If you're interested in working together or have any questions, don't hesitate to reach out to me via email at lejla.eyvazova@gmail.com or via [telegram](https://t.me/laylaroad). 
 I look forward to hearing from you!
