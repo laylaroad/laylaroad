@@ -17,8 +17,8 @@ Here are the main technologies and tools I've been working with:
 - React.js
 - Redux & Redux Toolkit
 - WebSocket
-- Node.js
 - Figma
+- Understanding of Node.js and Next.js (haven't used in projects yet)
 
 I'm continually learning and exploring new technologies to enhance my skills and contribute effectively to projects.
 
