@@ -21,14 +21,12 @@ Here are the main technologies and tools I've been working with:
 
 I'm continually learning and exploring new technologies to enhance my skills and contribute effectively to projects.
 
-## About me
-
-Originally, I pursued a career as a musical critic, where I honed my skills in critical analysis and attention to detail. However, I discovered my passion for coding and decided to transition to frontend development. I have a strong enthusiasm for front-end development and enjoy bringing designs to life with clean and efficient code.
-
-
 ## Projects
 
 Check out some of the projects I've created with the guidance and mentorship of experienced developers:
 - [Stellar Burger](https://github.com/laylaroad/react-stellar-burger)
 - [Mesto](https://github.com/laylaroad/mesto-project-bootcamp)
 
+## About me
+
+Originally, I pursued a career as a musical critic, where I honed my skills in critical analysis and attention to detail. However, I discovered my passion for coding and decided to transition to frontend development. I have a strong enthusiasm for front-end development and enjoy bringing designs to life with clean and efficient code.
