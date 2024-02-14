@@ -23,9 +23,7 @@ I'm continually learning and exploring new technologies to enhance my skills and
 
 ## About me
 
-Originally, I pursued a career as a musical critic, where I honed my skills in critical analysis and attention to detail. However, I discovered my passion for coding and decided to transition to frontend development. This journey has been incredibly rewarding as I've found a new outlet for my creativity and problem-solving abilities.
-
-I have a strong enthusiasm for front-end development and enjoy bringing designs to life with clean and efficient code. I thrive in collaborative environments and am eager to tackle new challenges. My background as a musical critic has instilled in me a keen eye for aesthetics and a deep appreciation for the user experience, which I bring to every project I work on.
+Originally, I pursued a career as a musical critic, where I honed my skills in critical analysis and attention to detail. However, I discovered my passion for coding and decided to transition to frontend development. I have a strong enthusiasm for front-end development and enjoy bringing designs to life with clean and efficient code.
 
 
 ## Projects
@@ -33,11 +31,4 @@ I have a strong enthusiasm for front-end development and enjoy bringing designs 
 Check out some of the projects I've created with the guidance and mentorship of experienced developers:
 - [Stellar Burger](https://github.com/laylaroad/react-stellar-burger)
 - [Mesto](https://github.com/laylaroad/mesto-project-bootcamp)
-
-
-## Contact me
-
-If you're interested in working together or have any questions, don't hesitate to reach out to me via email at lejla.eyvazova@gmail.com or via [telegram](https://t.me/laylaroad). 
-I look forward to hearing from you!
-
 
