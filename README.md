@@ -1,5 +1,5 @@
 
-# Junior Frontend Developer Portfolio
+# Junior Frontend Developer
 
 Hi there!🪷
 
