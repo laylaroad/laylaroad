@@ -13,6 +13,7 @@ I'm seeking for a job.
 - React
 - Redux Toolkit
 - Webpack
+- Vite
 - WebSocket
 - Node.js
 - Git
