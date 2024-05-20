@@ -3,21 +3,22 @@
 
 ## Hi there! I'm Leyla🪷
 
-Open to work.
+I'm seeking for a job.
 
-## Skills
+## Stack
 - HTML
 - CSS
 - JavaScript
 - TypeScript
 - React
 - Redux Toolkit
-- Node.js
 - Webpack
 - WebSocket
+- Node.js
 - Git
 
 ## Get in touch
 📥[email](lejla.eyvazova@gmail.com)
+
 📫[telegram](https://t.me/laylaeyvazova)
 
