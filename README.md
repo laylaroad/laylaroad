@@ -18,7 +18,7 @@ I'm seeking for a job.
 - Git
 
 ## Get in touch
-📥[email](lejla.eyvazova@gmail.com)
+📨 [email](lejla.eyvazova@gmail.com)
 
-📫[telegram](https://t.me/laylaeyvazova)
+📫 [telegram](https://t.me/laylaeyvazova)
 
