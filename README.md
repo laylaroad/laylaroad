@@ -6,17 +6,7 @@
 I'm seeking for a job.
 
 ## Stack
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- Redux Toolkit
-- Webpack
-- Vite
-- WebSocket
-- Node.js
-- Git
+HTML, CSS, Javascript, Typescript, React, Redux Toolkit, Webpack, Vite, WebSocket, Git.
 
 ## Get in touch
 📨 [email](lejla.eyvazova@gmail.com)
