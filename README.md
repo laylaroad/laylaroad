@@ -7,7 +7,7 @@ Open to work.
 
 ## Stack
 
-HTML, CSS/SCSS, JavaScript, React, TypeScript, Redux Toolkit, Jest, Next.js.
+HTML, CSS/SCSS, JavaScript, React, TypeScript, Redux Toolkit, Node.js, Jest, Cypress, Next.js.
 
 ## Get in touch
 📨 [email](lejla.eyvazova@gmail.com)
